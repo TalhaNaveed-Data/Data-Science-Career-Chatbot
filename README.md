@@ -26,5 +26,5 @@ Start by asking: "What's your current education level? (Matric/Intermediate/Univ
 - Use of AI
 
 ## Live Demo Link:
-https://rb.gy/9q9e95
+https://shorturl.at/odmGS
 
