@@ -19,9 +19,6 @@ Rules:
 
 Start by asking: "What's your current education level? (Matric/Intermediate/University)"
 
-## Conversation link:
-https://shorturl.at/754mL
-
 ## Skills:
 - AI Chatbot Development
 - System Prompt Engineering
@@ -29,4 +26,5 @@ https://shorturl.at/754mL
 - Use of AI
 
 ## Live Demo Link:
-[AI Studio shareable link]
+https://rb.gy/9q9e95
+
