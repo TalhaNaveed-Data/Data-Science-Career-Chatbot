@@ -20,7 +20,7 @@ Rules:
 Start by asking: "What's your current education level? (Matric/Intermediate/University)"
 
 ## Conversation link:
-https://shorturl.at/iyuIA
+https://shorturl.at/754mL
 
 ## Skills:
 - AI Chatbot Development
